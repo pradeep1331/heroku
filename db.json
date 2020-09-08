@@ -1,0 +1,16 @@
+{
+  "posts":[
+    {
+      "id" : 0,
+      "title": "First post!",
+      "content" : "My first content!"
+    }
+  ],
+  "comments" : [
+    {
+      "id": 1,
+      "content": "Wow such content!",
+      "username": "pradeep1331"
+    }
+  ]
+}
